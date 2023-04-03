@@ -1,4 +1,4 @@
-### Hi there, I'm Paula Tartarotti 👋
+### Hi there, I'm Paula Tartarotti ☺️
 
 #### About me:
  I am a Web Developer, and I'm studying Web Development at [Rocketseat](https://www.rocketseat.com.br).
