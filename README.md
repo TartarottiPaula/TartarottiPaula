@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Paula Tartarotti 👋
 
-<!--
-**TartarottiPaula/TartarottiPaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me:
+ I am a Web Developer, and I'm studying Web Development at [Rocketseat](https://www.rocketseat.com.br).
 
-Here are some ideas to get you started:
+#### Current Stack
+- ⚡️ Main Language : `Javascript`
+- 🪞 Front end :`Reactjs`, `HTML5`, `CSS3` , `Javascript`
+- ⬅ Back end : `Nodejs`
+- 🎨 Layout : `Figma`
+- 📦 Version Code Control : `Git & Github`
+- 🔨 Tools : `VSCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- 📬 Email: paula.tcelso@gmail.com
+- 👩‍🦰 Linkedin : https://www.linkedin.com/in/paulatartarotticelso/
+
